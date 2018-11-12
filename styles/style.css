@@ -1,0 +1,19 @@
+
+
+ol.yellow {
+  font-size: 60px;
+}
+p.inverse {
+  color: white;
+  background: black;
+}
+
+[data-first] {
+  Background: red }
+
+[data-second] {
+  background: green}
+
+[data-third] {
+  color: purple;
+  font-size: 100px}
